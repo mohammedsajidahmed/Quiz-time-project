@@ -1,1 +1,1 @@
-# Quiz-time-project
+# This project consists of few quiz questions which has a timer for every question and notes down the score. Also, it shows the highest score on the quiz start page even if page is refreshed, thanks to local storage. 
